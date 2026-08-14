@@ -1,5 +1,7 @@
 # Grizzlies Performance Dashboard
 
+Created by: Adam Chow
+
 A Streamlit dashboard that exposes and visualizes player workload and
 force-plate data for **Medical & Performance practitioners** (physical
 therapists, trainers, strength coaches).
@@ -41,7 +43,7 @@ instead of an error.
 pip install -r requirements.txt
 streamlit run app.py
 ```
-Then open the local URL Streamlit prints (usually http://localhost:8501).
+Then open the local URL Streamlit prints (http://localhost:8501).
 
 ## Deploy (free, public link)
 1. Push this folder to a GitHub repo (private is fine).
