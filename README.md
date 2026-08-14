@@ -45,14 +45,6 @@ streamlit run app.py
 ```
 Then open the local URL Streamlit prints (http://localhost:8501).
 
-## Deploy (free, public link)
-1. Push this folder to a GitHub repo (private is fine).
-2. Go to [share.streamlit.io](https://share.streamlit.io), connect the repo,
-   and set the main file to `app.py`.
-3. Streamlit Community Cloud installs `requirements.txt` and gives you a public
-   URL anyone can open.
+## Deploy (public link)
 
-## Notes on the data
-- The leading unnamed CSV column is a row-id and is dropped on load.
-- One impossible value (`High_Decel = -1`) is removed during cleaning.
-- Player names in the dataset are placeholders.
+The app is also currently live at this link, (https://chow-grizzlies-performance-dashboard.streamlit.app/), for anyone to view immediately, without logins or downloading files.
