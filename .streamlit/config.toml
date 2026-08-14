@@ -1,0 +1,7 @@
+# Grizzlies theme — applied automatically by Streamlit.
+[theme]
+primaryColor = "#5D76A9"          # Beale Street Blue (widgets/accents)
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EEF2F8"
+textColor = "#12173F"             # Memphis Midnight navy
+font = "sans serif"
