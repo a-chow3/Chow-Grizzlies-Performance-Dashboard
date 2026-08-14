@@ -1,4 +1,4 @@
-# Grizzlies Performance & Load Monitor
+# Grizzlies Performance Dashboard
 
 A Streamlit dashboard that exposes and visualizes player workload and
 force-plate data for **Medical & Performance practitioners** (physical
